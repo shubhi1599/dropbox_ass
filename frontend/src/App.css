@@ -1,0 +1,65 @@
+body{
+  /* background-image: url("https://thumbs.dreamstime.com/b/craft-supplies-knitting-creative-handmade-yellow-top-view-place-text-organizing-diy-elements-border-design-frame-159371971.jpg");
+  background-repeat: no-repeat;
+  background-size: 1500px 700px; */
+  background-color: aquamarine;
+}
+#second{
+  margin-top: 8px;
+}
+.mainform{
+  background-color: white;
+  max-width: 40%;
+  border-style: solid;
+  /* max-height: 50%; */
+  /* margin-left: 10%; */
+  /* margin-top: 10%; */
+}
+input[type="text"]{
+  padding-top: 3%;
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+input[type="email"]{
+  padding-top: 5%;
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="password"]{
+  padding-top: 5%;
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type="password"]{
+  padding-top: 5%;
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#fr{
+  padding-left: 20%;
+  padding-top: 15%;
+  padding-bottom: 5%;
+  justify-content: center;
+  height: 520px;
+}
